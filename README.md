@@ -1,4 +1,4 @@
 # New_repo
 This is my first repository on Github.
 <br>
-Author- Rashi Singh
+Author- Rashi Singh (B.Tech)
